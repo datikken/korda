@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+cd korda
 npm install
 ```
 
